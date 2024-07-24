@@ -59,7 +59,7 @@ jobs:
       #
       - add_ssh_keys:
           fingerprints:
-            - JClGxBFo9quouyEPg+O+9Eb/nU6Nz/Sh3dLuUAqM5DE
+            - SHA256:JClGxBFo9quouyEPg+O+9Eb/nU6Nz/Sh3dLuUAqM5DE
 
       #
       # deploy:
